@@ -17,13 +17,14 @@
 * 还是要多学多练，不能自以为是
 * 要谦虚好学，不懂的多问
 
-我学习过的编程有 C# C++ html CSS
+我学习过的编程有 `html` `CSS` `JavaScript`
+
+接下来给大家写一段我知道的代码吧
 
 ```javascript
 console.log('hello')
 
 ```
-
 
 ~~~css
 body{
