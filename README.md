@@ -19,6 +19,11 @@
 
 我学习过的编程有 C# C++ html
 
+~~~javascript
+console.log(hello)
+~~~
+
+
 ~~~
 body{
     background:red;
